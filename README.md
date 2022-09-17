@@ -32,10 +32,13 @@ WAN Link --> ether1 --> Mikrotik --> ether2 --> LAN Link --> Asterisk
 Efetuar o download geoip2-br.rsc
 
 Obsevação:
+
 - Não nos responsabilizamos pelo uso desse script e quaisquer "problemas" causados;
 - Caso você não tenha experiência com Mikrotik, ou tenha dúvidas sobre sua implementação, considere contratar uma consultoria especializada;
 
 Contatos:
+
 E-mail..: admin@fabricadeprovedores.com.br
+
 WhatsApp: +5511995451003
 
